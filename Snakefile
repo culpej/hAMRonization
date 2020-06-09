@@ -21,7 +21,7 @@ rule all:
 
 rule cleanup:
     input:
-        expand("results/{sample}/amrplusplus/{amrplusplus_outputs}", sample=samples.index, amrplusplus_outputs=amrplusplus_exts),
+        #expand("results/{sample}/amrplusplus/{amrplusplus_outputs}", sample=samples.index, amrplusplus_outputs=amrplusplus_exts),
         expand("results/{sample}/rgi/rgi.json", sample=samples.index),
         expand("results/{sample}/staramr/resfinder.tsv", sample=samples.index),
         expand("results/{sample}/ariba/report.tsv", sample=samples.index),
@@ -56,4 +56,4 @@ include: "rules/resfams.smk"
 include: "rules/resfinder.smk" 
 #include: "rules/kmerresistance.smk" 
 include: "rules/srax.smk" 
-include: "rules/amrplusplus.smk"
+#include: "rules/amrplusplus.smk"
