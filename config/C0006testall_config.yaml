@@ -1,0 +1,45 @@
+# Output and working directory (all other directories below, if not absolute, are relative to this one)
+species: "klebsiella_genomes"
+
+# path or URL to sample sheet (TSV format, columns: sample, assembly); can be created by scripts/create_sampleSheet.sh --mode assembly
+samples: "config/C0006_list.tsv"
+
+params:
+  db_dir: "data/dbs" #directory to install databases in
+  binary_dir: "data/non_conda_deps" # directory to install non-conda dependencies
+  threads: 1 #number of threads per rule
+  abricate:
+    name: "ncbi"
+    minid: 75 #minimum identity threshold
+    mincov: 0 #minimum coverage threshold
+  amrfinder:
+    organism: "Klebsiella" #must be defined to enable mutation detection: set amrfinder --list_organisms for options
+  groot:
+    db_source: "resfinder" #which preclustered db to use
+    read_length: 100 # readlengh to use for indexing the preclustered db
+  rgi:
+    db_version: "3.0.7"
+  srax:
+    dbtype: "basic"
+  pointfinder:
+    species: "klebsiella"
+  amrplusplus:
+    ref_version: "v2.00"
+  ariba:
+    #empty, no options exposed
+  staramr:
+    #empty, no options exposed
+  resfams:
+    #empty, no options exposed
+  mykrobe:
+    #empty, no options exposed
+  resfinder:
+    #empty, no options exposed
+  kmerresistance:
+    # empty, no options exposed, uses same res db as resfinder and due to the the large size and slow FTP for the species db (20GB >2hr download) just uses a single dummy klebsiella type genome
+  SSTAR:
+    # empty, no options exposed, uses same res db as resfinder and due to the the large size and slow FTP for the species db (20GB >2hr download) just uses a single dummy klebsiella type genome
+    #srst2: not supported due to upstream packaging bug
+    #  gene_db: "data/dbs/ResFinder.fasta"
+    #  min_depth: 5
+    #  max_divergence: 10
