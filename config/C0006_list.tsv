@@ -1,0 +1,2 @@
+species	biosample	assembly	read1	read2
+Klebsiella pneumoniae	testsample	../Klebgenome_data/C0006_Klebsiella_pneumoniae.fasta	../Kleb_fastq/C0006_Klebsiella_pneumoniae_R1.fastq.gz	Kleb_fastq/C0006_Klebsiella_pneumoniae_R2.fastq.gz

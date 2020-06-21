@@ -1,7 +1,8 @@
-name: srax
+name: hamronization
 channels:
   - conda-forge
   - bioconda
   - defaults
 dependencies:
-  - srax=1.5
+  - snakemake=5.18.1
+  - unzip 
