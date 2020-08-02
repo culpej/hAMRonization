@@ -1,12 +1,86 @@
-,CRP,Escherichia coli marR mutant conferring antibiotic resistance,CBP-1,dfrA14,Escherichia coli ampH beta-lactamase,AAC(6')-Iai,dfrI,QnrB20,SHV-66,basS,cpxA,CTX-M-15,Streptococcus agalactiae mprF,Klebsiella pneumoniae KpnH,baeR,tet(E),Klebsiella pneumoniae KpnF,SHV-1,Klebsiella pneumoniae KpnE,APH(3'')-Ib,Escherichia coli UhpT with mutation conferring resistance to fosfomycin,sul1,SHV-28,OKP-B-19,YojI,oqxA,OXA-1,OprJ,sul2,LEN-55,MexV,mdtB,Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin,AAC(6')-Ib-cr,OXA-334,acrD,QnrD1,Enterobacter cloacae acrA,Type B NfxB,Klebsiella pneumoniae KpnG,MCR-5.2,msbA,Klebsiella pneumoniae ramR mutants,marA,mdtC,MexB,SHV-36,OpmH,APH(7'')-Ia,MexC,catII from Escherichia coli K-12,Salmonella enterica gyrA conferring resistance to fluoroquinolones,mexQ,LEN-9,acrB,catB3,Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics,FosA6,Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance,Klebsiella pneumoniae acrA,AAC(6')-Ib10,APH(3')-IIIa,PDC-5,Pseudomonas aeruginosa catB7,MexW,MuxA,mphC,oqxB,TEM-1,mexM,PmrF,IND-6,emrR,SHV-187,APH(6)-Id,ANT(3'')-IIa,MexA,SHV-11,Escherichia coli soxS with mutation conferring antibiotic resistance,QnrB1,MexD,Escherichia coli mdfA,Klebsiella pneumoniae OmpK37,adeF,FosA5
-Kp17,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1
-Kp1,1,1,1,1,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,0,0,0,0,1,1,0,1,0,0,1,1,1,0,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0,0,0,1,0,1,1,0,0
-Kp14,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0
-Kp19,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0
-Kp11,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,1,1
-Kp12,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0
-Kp16,1,1,1,0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0
-Kp10,1,1,1,0,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,0,1,1,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,1,1,0,1
-Kp13,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0,1,1,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,1,1
-Kp18,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0
-Kp15,1,1,1,0,1,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+,Kp17,Kp1,Kp14,Kp19,Kp11,Kp12,Kp16,Kp10,Kp13,Kp18,Kp15
+SHV-1,0,0,1,0,0,0,0,0,0,0,0
+tet(E),1,1,1,1,1,1,0,0,1,1,0
+QnrB20,0,0,0,0,0,0,0,1,0,0,0
+PmrF,1,1,1,1,1,1,1,1,1,1,1
+Salmonella enterica gyrA conferring resistance to fluoroquinolones,0,0,0,0,0,0,0,1,0,0,0
+Escherichia coli marR mutant conferring antibiotic resistance,1,1,1,1,1,1,1,1,1,1,1
+FosA5,1,0,0,0,1,0,0,1,1,0,0
+YojI,0,0,0,0,0,0,0,0,1,0,0
+Escherichia coli ampH beta-lactamase,1,1,1,1,1,1,1,1,1,1,1
+QnrB1,0,1,0,0,0,0,0,0,0,0,0
+AAC(6')-Ib10,0,0,0,0,0,0,0,1,0,0,0
+SHV-36,0,0,0,0,0,0,0,0,1,0,0
+FosA6,0,1,1,1,0,1,1,0,0,1,1
+CTX-M-15,0,1,0,0,0,0,0,0,0,0,0
+MexA,0,0,0,0,0,0,0,0,1,0,0
+MCR-5.2,0,0,0,0,0,0,0,0,0,0,1
+OXA-1,0,1,0,0,0,0,0,0,0,0,0
+CBP-1,1,1,1,1,1,1,1,1,1,1,1
+Klebsiella pneumoniae OmpK37,1,1,1,1,1,1,1,1,0,1,1
+AAC(6')-Iai,0,0,1,1,0,0,0,0,0,0,0
+Klebsiella pneumoniae ramR mutants,0,0,0,1,0,0,0,0,0,0,0
+mphC,0,0,0,0,0,0,0,1,0,0,0
+adeF,1,0,0,0,1,0,0,0,1,0,0
+SHV-28,0,0,0,1,0,0,0,0,0,0,0
+OprJ,0,0,0,0,0,0,0,1,0,0,0
+Klebsiella pneumoniae KpnF,1,1,1,1,1,1,1,1,1,1,1
+APH(3')-IIIa,0,0,0,0,0,0,0,0,1,0,0
+dfrI,0,0,0,0,0,0,0,0,0,0,1
+SHV-187,1,1,0,0,1,1,0,0,0,0,0
+acrB,1,1,1,1,1,1,1,1,1,1,1
+Type B NfxB,0,0,0,0,1,0,1,0,0,0,0
+mexM,0,0,0,0,0,0,0,0,1,0,0
+LEN-55,0,0,0,0,0,0,0,0,0,0,1
+TEM-1,0,1,0,0,0,0,0,1,0,0,0
+Pseudomonas aeruginosa catB7,0,0,1,0,0,0,0,0,1,0,0
+Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin,1,1,1,1,1,1,1,1,1,1,1
+OKP-B-19,0,0,0,0,0,0,1,0,0,0,0
+oqxB,1,1,1,1,1,1,1,1,0,1,1
+IND-6,0,0,0,1,1,0,0,0,0,0,0
+SHV-11,0,0,0,0,0,0,0,0,0,1,0
+QnrD1,0,1,0,0,0,0,0,0,0,0,0
+Escherichia coli mdfA,1,1,1,1,1,1,1,1,0,1,1
+Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics,1,1,1,1,1,1,1,1,1,1,1
+Escherichia coli UhpT with mutation conferring resistance to fosfomycin,1,1,1,1,1,1,1,1,1,1,1
+APH(3'')-Ib,0,1,0,0,0,0,0,0,0,0,0
+AAC(6')-Ib-cr,0,1,0,0,0,0,0,0,0,0,0
+MexW,0,0,0,0,1,0,0,0,1,0,0
+MexV,0,0,0,0,1,0,0,0,0,0,0
+sul1,0,0,0,0,0,0,0,1,0,0,0
+Klebsiella pneumoniae KpnH,1,1,1,1,1,1,1,1,1,1,1
+PDC-5,0,0,0,0,0,0,0,1,0,0,0
+basS,0,0,0,0,0,0,1,1,0,0,0
+cpxA,0,0,0,0,0,0,0,1,0,0,0
+baeR,1,1,1,1,1,1,1,1,1,1,1
+OpmH,0,0,0,0,1,0,0,0,0,0,0
+MexC,0,0,0,0,1,0,1,0,0,0,0
+dfrA14,0,1,0,0,0,0,0,0,0,0,0
+Escherichia coli soxS with mutation conferring antibiotic resistance,0,0,0,0,0,0,1,0,0,0,0
+mdtC,1,1,1,1,1,1,1,1,1,1,1
+Enterobacter cloacae acrA,0,0,1,0,0,0,0,0,0,0,0
+OXA-334,0,0,0,1,0,0,0,0,0,0,0
+Klebsiella pneumoniae acrA,1,1,1,0,1,1,0,0,1,1,0
+msbA,1,1,1,1,1,1,1,1,1,1,1
+APH(6)-Id,0,1,0,0,0,0,0,0,0,0,0
+catII from Escherichia coli K-12,0,0,0,0,0,0,0,1,0,0,0
+Klebsiella pneumoniae KpnG,1,1,1,1,1,1,1,1,1,1,1
+acrD,1,1,1,1,1,1,1,1,1,1,1
+APH(7'')-Ia,0,0,0,0,1,0,0,0,0,0,0
+LEN-9,0,0,0,0,0,0,0,1,0,0,0
+SHV-66,0,0,0,0,0,0,0,1,0,0,0
+sul2,0,1,0,0,0,0,0,0,0,0,0
+CRP,1,1,1,1,1,1,1,1,1,1,1
+Streptococcus agalactiae mprF,0,0,0,0,0,0,0,0,0,0,1
+mexQ,0,0,0,0,0,0,0,0,1,0,0
+emrR,1,1,1,1,1,1,1,1,1,1,1
+MuxA,0,0,0,0,0,0,0,0,1,0,0
+mdtB,1,1,1,1,1,1,1,1,1,1,1
+MexB,0,0,0,1,0,0,0,0,1,0,0
+catB3,0,1,0,0,0,0,0,0,0,0,0
+MexD,0,0,0,0,0,0,0,0,1,0,0
+Klebsiella pneumoniae KpnE,1,1,1,1,1,1,1,1,1,1,1
+ANT(3'')-IIa,0,0,0,0,0,0,0,1,0,0,0
+Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance,0,0,0,0,0,0,1,0,0,0,0
+marA,1,1,1,1,1,1,1,1,1,1,1
+oqxA,1,1,1,1,1,1,1,1,0,1,1
