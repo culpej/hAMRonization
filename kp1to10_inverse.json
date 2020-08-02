@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/culpej/hAMRonization/02a829e7e00cb73d6f17cf7adb0912736cd565ce/kp1to10.csv",
+	"name": "Kp1to10",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name"}
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 86 }
+	]
+}
