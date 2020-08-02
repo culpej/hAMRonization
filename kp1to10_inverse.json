@@ -1,6 +1,6 @@
 {
 	"file": "https://raw.githubusercontent.com/culpej/hAMRonization/master/kp1to10_inverse.csv",
-	"name": "Kp1to10",
+	"name": "Kp1to10_inverse",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
